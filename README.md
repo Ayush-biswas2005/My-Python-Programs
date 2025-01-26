@@ -22,4 +22,4 @@ Welcome to my first Python programming project! This repository contains [Your P
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Ayush-biswas2005/My-Python-Programs
