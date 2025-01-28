@@ -23,23 +23,23 @@ def draw_bike():
     turtle.speed(1)
 
     # Draw wheels
-    draw_circle("black", 50, -100, -50)
-    draw_circle("black", 50, 100, -50)
+    draw_circle("violet", 50, -100, -50)
+    draw_circle("indigo", 50, 100, -50)
 
     # Draw frame
     draw_line("blue", -100, -50, -30, 50)
-    draw_line("blue", 100, -50, 30, 50)
-    draw_line("blue", -30, 50, 30, 50)
-    draw_line("blue", 0, 0, -100, -50)
-    draw_line("blue", 0, 0, 100, -50)
+    draw_line("green", 100, -50, 30, 50)
+    draw_line("yellow", -30, 50, 30, 50)
+    draw_line("orange", 0, 0, -100, -50)
+    draw_line("red", 0, 0, 100, -50)
 
     # Draw handlebars
-    draw_line("blue", 30, 50, 60, 90)
-    draw_line("blue", 60, 90, 90, 90)
+    draw_line("violet", 30, 50, 60, 90)
+    draw_line("indigo", 60, 90, 90, 90)
 
     # Draw seat
     draw_line("blue", -30, 50, -30, 80)
-    draw_line("blue", -30, 80, 0, 80)
+    draw_line("green", -30, 80, 0, 80)
 
     turtle.hideturtle()
     turtle.done()
