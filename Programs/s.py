@@ -10,5 +10,3 @@ g=int(input("Enter the 7th number:"))
 h=int(input("Enter the 8th number:"))
 i=int(input("Enter the 9th number:"))
 j=int(input("Enter the 10th number:"))
-sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss=a+b+c+d+e+f+g+h+i+j
-print(sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss)
