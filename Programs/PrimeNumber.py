@@ -1,5 +1,4 @@
 # **Prime Number Check**: Write a program to check if a number is prime.
-# Input from user
 a=int(input("Enter a number:"))
 if a < 2:
     print(f"{a} is not a prime number")
