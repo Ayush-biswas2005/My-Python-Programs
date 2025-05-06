@@ -1,8 +1,5 @@
 #This is a program to work on different string methods.
-string1="coochbehar"
-string2="I love Python"
-print(string1.capitalize())
-print(string2.capitalize())
-print(string1.casefold())
-print(string2.casefold())
-print(string1.join())
+text3="123"
+text4=" "
+text5="/t/n"
+ptint(text5.isspace())
